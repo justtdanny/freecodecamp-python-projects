@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="python-banner.jpg.png" alt="Python development banner" width="100%">
+</p>
+
 # FreeCodeCamp Python Projects
 
 This repository contains Python exercises, practical labs, and projects completed during my FreeCodeCamp Python learning journey.
