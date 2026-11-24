@@ -1,6 +1,8 @@
-# Basic Python
+# Python Learning Exercises
 
-This folder contains Python exercises completed during my FreeCodeCamp learning journey.
+This folder contains Python exercises and practical labs completed during my FreeCodeCamp learning journey.
+
+The exercises focus on understanding Python fundamentals, developing problem-solving skills, and applying programming concepts through practice.
 
 ## Topics Covered
 
@@ -8,8 +10,11 @@ This folder contains Python exercises completed during my FreeCodeCamp learning 
 - Conditional Statements
 - Loops
 - Functions
-- Lists and Tuples
-- Dictionaries
+- Lists, Tuples, and Dictionaries
 - String Manipulation
 - Error Handling
 - Classes and Objects
+
+## Purpose
+
+To document my practical learning, track my progress, and build a collection of Python exercises that demonstrate my understanding of programming concepts.
